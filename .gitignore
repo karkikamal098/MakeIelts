@@ -1,0 +1,8 @@
+# Answer keys and test sources stay out of the repo (they are in Supabase)
+tests/
+*.key.json
+*.script.json
+*.sql
+makeielts.html
+preview_test.html
+tts/

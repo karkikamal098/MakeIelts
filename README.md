@@ -10,4 +10,3 @@ IELTS Reading & Listening practice in the real exam format, with every lost mark
 - `content-tools/` – the test pipeline (validate, split public/key, record audio with Kokoro, independent answer check).
 
 Answer keys and test source files are deliberately not in this repo. They live in Supabase (`test_keys`, locked by RLS).
-# MakeIelts
